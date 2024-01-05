@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkadeep Karmakar</h1>
-<h3 align="center">Tech enthusiast from 𝙱𝚑𝚞𝚋𝚊𝚗𝚎𝚜𝚠𝚊𝚛</h3>
+<h3 align="center">Tech enthusiast from Bhubaneswar</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Arkadeep18/Arkadeep18/assets/146548597/09b5a7be-4eac-4a18-82d0-9be8c829c9dd">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkadeep18&label=Profile%20views&color=0e75b6&stle=flat" alt="arkadeep18" /> </p>
 
